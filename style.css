@@ -1,0 +1,145 @@
+/* body {
+    background: white;
+    color: purple;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+} */
+
+
+
+.body {
+    margin: 20px;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+    width: 100px;
+}
+
+.card {
+    background: #ddebf8;
+    border-bottom: 10px solid #d8cefe;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0px auto;
+}
+
+.blue-border {
+    border: 1px dotted blue;
+    text-align: center;
+}
+
+.align-text {
+    text-align: center;
+}
+
+.red-circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: #bc002d;
+
+    margin: 40px auto;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.search-box {
+    width: 400px;
+    line-height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 20px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+
+    margin-top: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background: #dfe1e5;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: small;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.main-image {
+    width: 200px;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.red {
+    background: red;
+    height: 100px;
+}
+
+.blue {
+    background: blue;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.green {
+    background: green;
+    height: 100px;
+}
+
+/* .card {
+    color: black;
+    background: lightgray;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid black;
+    border-radius: 20px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+} */
+
+.follow-button {
+    color: #0f1419;
+    font-size: la;
+    border: 1px solid #cfd9de;
+    border-radius: 16px;
+
+    font-weight: bold;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+  
